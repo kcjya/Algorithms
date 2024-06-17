@@ -3,4 +3,4 @@ directory
 
 
 ### LinearModel
-<img src="tulip.jpg" alt="上海鲜花港 - 郁金香" />
+<img src="https://github.com/kcjya/Algorithms/blob/main/LinearModel/results/bind.png" alt="LinearModel Results"  width=750px height=300px/>
